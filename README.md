@@ -14,10 +14,10 @@ $> taskbuster/env/taskbuster_test/bin/activate
 $> python manage.py runserver
 ```
 
-<check localhost:8000>
+[check localhost:8000]
 
 `python functional_tests/all_users.py`
 
-<tests should pass>
+[tests should pass]
 
 `deactivate`
