@@ -5,6 +5,9 @@ __pycache__/
 # Database
 db.sqlite3
 
+# Sublime workspace files
+*.sublime-workspace
+
 # C extensions
 *.so
 
